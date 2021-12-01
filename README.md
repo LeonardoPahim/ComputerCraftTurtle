@@ -5,13 +5,6 @@ Programa para uso nas _Mining Turtles_ do mod _CC: Tweaked_.
 - CC: Tweaked - x.x.x
 - Minecraft - 1.16.5
 
-## Linguagens
-
-- Lua - Mining Turtles
-- TypeScript - Servidor
-- React(?) - GUI
-
-
 ## TODO
 | Status | Funcionalidade |
 | ------ | ---------------|
@@ -22,4 +15,13 @@ Programa para uso nas _Mining Turtles_ do mod _CC: Tweaked_.
 | |  Turtle consegue retornar para o ponto original
 | |  Reportar localização e status para um WebSocket fora do jogo
 | |  Servidor do WebSocket possuir uma GUI (poder parar, ver invetário, etc.)
+
+## Linguagens
+
+- Lua - Mining Turtles
+- TypeScript - Servidor
+- React(?) - GUI
+
+
+
 
